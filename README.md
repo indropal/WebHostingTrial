@@ -1,2 +1,2 @@
 # WebHostingTrial
-checking out Hosting webpages on GitHub
+Checking out how Hosting webpages on GitHub works.
